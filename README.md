@@ -36,7 +36,9 @@ To push the changes:
 
        Class01 --> main
        ex: git push origin Class01   
-###
+
+### Daily
+
 To list the local branches:
 
     git branch
