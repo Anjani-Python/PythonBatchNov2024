@@ -27,7 +27,7 @@ To stage the changes:
 
 To commit the changes :
 
-    git commit -m 
+    git commit -m " commit message"
 
 
 To push the changes:
