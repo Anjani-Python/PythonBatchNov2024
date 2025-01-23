@@ -1,0 +1,12 @@
+[Class 00 ] Nov 04 2024
+    dev setup
+    initializing IDE/editor
+    Initializing python
+    github access ,creating project 
+
+
+[Class 00 ] Nov 06 2004
+
+    Git commands 
+    mark down syntax
+    Daily activities and usage
